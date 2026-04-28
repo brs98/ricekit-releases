@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Licensing, billing, or general help
+    url: mailto:brandon@ricekit.app
+    about: Please email for purchase questions, license issues, or general support.
+  - name: Suggest a theme, template, or integration
+    url: https://github.com/brs98/ricekit-community
+    about: Themes, templates, and integrations live in the community repo.
+  - name: Report a security vulnerability
+    url: https://github.com/brs98/ricekit-releases/blob/main/SECURITY.md
+    about: Please email security@ricekit.app — do not file a public issue.
