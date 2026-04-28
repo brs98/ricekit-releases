@@ -35,7 +35,7 @@ Format follows the [Tauri updater spec](https://v2.tauri.app/plugin/updater/).
 
 ## Buy a license
 
-After the trial ends, activate a license to keep using RiceKit. $34 one-time, no subscription, one license activates up to 2 Macs.
+After the trial ends, activate a license to keep using RiceKit. $29 one-time, no subscription, one license activates up to 2 Macs.
 
 [Buy RiceKit →](https://buy.ricekit.app)
 
