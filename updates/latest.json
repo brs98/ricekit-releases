@@ -1,23 +1,23 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "notes": "See the [changelog](https://github.com/brs98/ricekit/blob/main/CHANGELOG.md) for details.\n\nThe DMG is signed with an Apple Developer ID certificate and notarized by Apple.\n",
-  "pub_date": "2026-06-08T02:53:30Z",
+  "pub_date": "2026-06-08T05:08:47Z",
   "platforms": {
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlpWnhoS0xGend3aXhhR0VNMjUrOVVzNU04YkVWQk11ZmRNUEw3cUJWZmo0bjJOYUdQSjBwRDM1UytrZnRZV0VsOEZERXRwZmRDdCtjR3ZyTlo0RkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODg3MTQyCWZpbGU6UmljZUtpdC5hcHAudGFyLmd6Ckwwem1CY0wyRGM0Y2RlVk9UN01LdzJjWFlpVUpqVno5TjI1TkEyU0RJMmtjUkRCSkZHa0xNM0dpQ2JsQ2RsZ3NhRFd6Mk1EcWpMWmVBVk0yeW8vdENRPT0K",
-      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.3/RiceKit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlGY3l1WjFBWXd1aGpBRXYrK0ZPWW9vaGlERndYT2lPTE5JZVFDMm9uVXVlY1RYaFhpclM5WHppdXIrRnlIVjRQTDFBNkU4R0g1OGFEWjUxSTRlaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODk1MjU4CWZpbGU6UmljZUtpdC5hcHAudGFyLmd6CkF4SDZ4dk5LV0duRWJkY2VTc243YVQxL05DUU1BdGUxTTQ2QzN5MTIzRzV1b2RXNlE4bjZCMS9iSFVTa1N3NndDZXQzZHd3TVJRanQ5enZPNU1haUJnPT0K",
+      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.4/RiceKit.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlpWnhoS0xGend3aXhhR0VNMjUrOVVzNU04YkVWQk11ZmRNUEw3cUJWZmo0bjJOYUdQSjBwRDM1UytrZnRZV0VsOEZERXRwZmRDdCtjR3ZyTlo0RkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODg3MTQyCWZpbGU6UmljZUtpdC5hcHAudGFyLmd6Ckwwem1CY0wyRGM0Y2RlVk9UN01LdzJjWFlpVUpqVno5TjI1TkEyU0RJMmtjUkRCSkZHa0xNM0dpQ2JsQ2RsZ3NhRFd6Mk1EcWpMWmVBVk0yeW8vdENRPT0K",
-      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.3/RiceKit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlGY3l1WjFBWXd1aGpBRXYrK0ZPWW9vaGlERndYT2lPTE5JZVFDMm9uVXVlY1RYaFhpclM5WHppdXIrRnlIVjRQTDFBNkU4R0g1OGFEWjUxSTRlaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODk1MjU4CWZpbGU6UmljZUtpdC5hcHAudGFyLmd6CkF4SDZ4dk5LV0duRWJkY2VTc243YVQxL05DUU1BdGUxTTQ2QzN5MTIzRzV1b2RXNlE4bjZCMS9iSFVTa1N3NndDZXQzZHd3TVJRanQ5enZPNU1haUJnPT0K",
+      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.4/RiceKit.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlpWnhoS0xGend3aXhhR0VNMjUrOVVzNU04YkVWQk11ZmRNUEw3cUJWZmo0bjJOYUdQSjBwRDM1UytrZnRZV0VsOEZERXRwZmRDdCtjR3ZyTlo0RkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODg3MTQyCWZpbGU6UmljZUtpdC5hcHAudGFyLmd6Ckwwem1CY0wyRGM0Y2RlVk9UN01LdzJjWFlpVUpqVno5TjI1TkEyU0RJMmtjUkRCSkZHa0xNM0dpQ2JsQ2RsZ3NhRFd6Mk1EcWpMWmVBVk0yeW8vdENRPT0K",
-      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.3/RiceKit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlGY3l1WjFBWXd1aGpBRXYrK0ZPWW9vaGlERndYT2lPTE5JZVFDMm9uVXVlY1RYaFhpclM5WHppdXIrRnlIVjRQTDFBNkU4R0g1OGFEWjUxSTRlaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODk1MjU4CWZpbGU6UmljZUtpdC5hcHAudGFyLmd6CkF4SDZ4dk5LV0duRWJkY2VTc243YVQxL05DUU1BdGUxTTQ2QzN5MTIzRzV1b2RXNlE4bjZCMS9iSFVTa1N3NndDZXQzZHd3TVJRanQ5enZPNU1haUJnPT0K",
+      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.4/RiceKit.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlpWnhoS0xGend3aXhhR0VNMjUrOVVzNU04YkVWQk11ZmRNUEw3cUJWZmo0bjJOYUdQSjBwRDM1UytrZnRZV0VsOEZERXRwZmRDdCtjR3ZyTlo0RkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODg3MTQyCWZpbGU6UmljZUtpdC5hcHAudGFyLmd6Ckwwem1CY0wyRGM0Y2RlVk9UN01LdzJjWFlpVUpqVno5TjI1TkEyU0RJMmtjUkRCSkZHa0xNM0dpQ2JsQ2RsZ3NhRFd6Mk1EcWpMWmVBVk0yeW8vdENRPT0K",
-      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.3/RiceKit.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeU1saGJmTllCTHlGY3l1WjFBWXd1aGpBRXYrK0ZPWW9vaGlERndYT2lPTE5JZVFDMm9uVXVlY1RYaFhpclM5WHppdXIrRnlIVjRQTDFBNkU4R0g1OGFEWjUxSTRlaFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODk1MjU4CWZpbGU6UmljZUtpdC5hcHAudGFyLmd6CkF4SDZ4dk5LV0duRWJkY2VTc243YVQxL05DUU1BdGUxTTQ2QzN5MTIzRzV1b2RXNlE4bjZCMS9iSFVTa1N3NndDZXQzZHd3TVJRanQ5enZPNU1haUJnPT0K",
+      "url": "https://github.com/brs98/ricekit-releases/releases/download/v0.2.4/RiceKit.app.tar.gz"
     }
   }
 }
