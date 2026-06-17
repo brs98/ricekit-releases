@@ -14,6 +14,10 @@ https://download.ricekit.app/latest
 
 After mounting the DMG, drag **RiceKit.app** into `/Applications` and launch it. You'll get a 7-day full-feature trial — no account or credit card required.
 
+## Changelog
+
+Public release notes live at [ricekit.app/changelog](https://ricekit.app/changelog). Each [release](https://github.com/brs98/ricekit-releases/releases) links there too.
+
 ## Verify the signature
 
 Every release is signed with a Developer ID certificate and notarized by Apple. To verify a downloaded DMG before opening:
