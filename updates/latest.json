@@ -1,6 +1,6 @@
 {
   "version": "0.2.4",
-  "notes": "See the [changelog](https://github.com/brs98/ricekit/blob/main/CHANGELOG.md) for details.\n\nThe DMG is signed with an Apple Developer ID certificate and notarized by Apple.\n",
+  "notes": "See the [changelog](https://ricekit.app/changelog) for details.\n\nThe DMG is signed with an Apple Developer ID certificate and notarized by Apple.\n",
   "pub_date": "2026-06-08T05:08:47Z",
   "platforms": {
     "darwin-aarch64-app": {
